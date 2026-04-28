@@ -1,0 +1,5 @@
+{
+  "graphs": {
+    "graph_execution_cards": "./agent.ts:graph"
+  }
+}
